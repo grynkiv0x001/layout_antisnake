@@ -1,0 +1,2 @@
+html{font-family:Arial,sans-serif;font-size:100px}body{margin:0}.container{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:900px){.container{grid-template-columns:repeat(3,1fr)}}.item{color:#fff;height:300px;min-width:300px;line-height:300px;text-align:center}.item--1{background-color:rgb(255,0,0)}.item--2{background-color:rgb(204,0,0)}.item--3{background-color:rgb(153,0,0)}.item--4{background-color:rgb(102,0,0)}.item--5{background-color:rgb(51,0,0)}.item--6{background-color:rgb(0,0,0)}
+/*# sourceMappingURL=main.da3e71f8.css.map */
